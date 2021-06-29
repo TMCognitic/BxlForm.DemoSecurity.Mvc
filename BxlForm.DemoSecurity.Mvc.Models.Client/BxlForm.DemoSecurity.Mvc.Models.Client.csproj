@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BxlForm.DemoSecurity.Mvc.Models.Global\BxlForm.DemoSecurity.Mvc.Models.Global.csproj" />
+  </ItemGroup>
+
+</Project>
